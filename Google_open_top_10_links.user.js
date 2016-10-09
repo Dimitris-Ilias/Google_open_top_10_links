@@ -3,6 +3,7 @@
 // @namespace   mhtsos
 // @version     1
 // @include     http*www.google.*/search?*
+// @downloadURL https://github.com/JimTortex/Google_open_top_10_links/raw/master/Google_open_top_10_links.user.js
 // @grant       none
 // ==/UserScript==
 
