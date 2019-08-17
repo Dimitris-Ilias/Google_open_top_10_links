@@ -1,7 +1,8 @@
 // ==UserScript==
 // @name        Google top 10
-// @namespace   mhtsos
+// @author      Dimitris Ilias
 // @version     0.1
+// @description Opens first n Google results
 // @include     http*www.google.*/search?*
 // @downloadURL https://github.com/JimTortex/Google_open_top_10_links/raw/master/Google_open_top_10_links.user.js
 // @grant       none
